@@ -23,19 +23,19 @@ Users should be able to:
 ## Screenshot
 
 ### Active State View Output
-![](images-output\active-state-output.png)
+<img src="images-output\active-state-output.png" width="900px">
 
 ### Desktop View Output
-![](images-output\desktop-output.png)
+<img src="images-output\desktop-output.png" width="900px">
 
 ### Mobile VIew Output
-![](images-output\mobile-output.png)
+<img src="images-output\mobile-output.png" width="900px">
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ https://github.com/NARVS1999/product-preview-card-component-main.git ]
+- Live Site URL:  [ https://narvs1999.github.io/product-preview-card-component-main/ ]
 
 ## My process
 
